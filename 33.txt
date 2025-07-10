@@ -1,0 +1,7 @@
+# Código completo será gerado no mesmo estilo anterior
+# (resumido para manter o foco)
+BOT_TOKEN = '7998411332:AAEBwR4zCxA7RnonNrb2eTqRddfL-fUv8Q4'
+MP_TOKEN = 'APP_USR-3286683271454549-071008-719ff22ed5e90f14a724ad701a6650a0-303151047'
+# O código continuará com lógica para gerar Pix via Mercado Pago e
+# monitorar aprovação automática para adicionar saldo
+# ...
